@@ -17,3 +17,4 @@ int main(void)
     printf("The total2 is : %d", total2);
     return 0;
 }
+// clear

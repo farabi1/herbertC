@@ -16,3 +16,5 @@ int main(void)
     printf("%f", f);
     return 0;
 }
+
+// clear

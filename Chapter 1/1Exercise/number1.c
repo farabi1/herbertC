@@ -9,3 +9,5 @@ int main(void)
     printf("The value of the variable 'num' is: %d", num);
     return 0;
 }
+
+// clear
