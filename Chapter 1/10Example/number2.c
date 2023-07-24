@@ -12,3 +12,5 @@ void outchar(char ch)
 {
     printf("%c", ch);
 }
+
+// clear
