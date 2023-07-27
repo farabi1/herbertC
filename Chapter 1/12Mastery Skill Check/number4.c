@@ -8,3 +8,4 @@ character = %c
 string = %s, %a, %d , %i,
 
 */
+// clear

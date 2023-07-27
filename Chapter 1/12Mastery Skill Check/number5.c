@@ -8,3 +8,5 @@ c) last + name ==== space and arithmetic expression not allowed
 d) 9times ==== any number not allowed at first
 
 */
+
+// clear
