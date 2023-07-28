@@ -22,3 +22,5 @@ int main(void)
 }
 
 // ekhane 1st if kaj korle er sathe else o kaj korbe, majher if bad jabe
+
+// clear
