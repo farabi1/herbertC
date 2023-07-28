@@ -23,7 +23,7 @@ int main(void)
         printf("Enter the second number : ");
         scanf("%d", &num2);
 
-        printf("The substract of the numbers is : %d", num1 - num2);
+        printf("The subtract of the numbers is : %d", num1 - num2);
     }
 
     return 0;
