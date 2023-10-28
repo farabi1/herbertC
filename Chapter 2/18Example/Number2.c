@@ -3,6 +3,7 @@ int main(void)
 {
     int num, i, is_prime;
     printf("Enter the number to test: ");
+
     scanf("%d", &num);
     /*now test for factor*/
 
@@ -18,3 +19,4 @@ int main(void)
         printf("The number is not prime.");
     return 0;
 }
+// clear
