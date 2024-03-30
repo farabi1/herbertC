@@ -12,8 +12,6 @@ int main(){
         dimension=length*width;
         total=total+dimension;
         
-
-
     }
 
     printf("Total square footage is %d \n",total);
