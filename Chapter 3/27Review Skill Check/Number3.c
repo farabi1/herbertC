@@ -2,3 +2,5 @@
 
 // by using 
 // printf("\n");
+
+// clear
