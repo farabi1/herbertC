@@ -1,10 +1,14 @@
-#include <stdio.h>
-int main(void)
-{
+#include<stdio.h>
+int main(void){
+     printf("\a \a \a");
+     printf("Heliio");
+     printf("\a \a \a");
+     printf("Heliio");
+     printf("\a \a \a");
+     printf("Heliio");
+     printf("\a \a \a");
+     printf("Heliio");
 
-    printf("\a");
-    return 0;
+return 0;
 }
-
-// no bell sound
-// clear
+//clear
