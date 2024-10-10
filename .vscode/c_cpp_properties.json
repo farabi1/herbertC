@@ -3,17 +3,17 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "C:\\msys64\\mingw64\\include"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "cl.exe",
+            "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-msvc-x64"
+            "intelliSenseMode": "${default}"
         }
     ],
     "version": 4
