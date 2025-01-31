@@ -1,0 +1,1 @@
+// Sample c program about if else statement with it we can calculate the actual arithmatic process.
