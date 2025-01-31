@@ -7,7 +7,7 @@ int main(void)
     printf("Enter value : ");
     scanf("%f", &num);
 
-    printf(" 1: Feet to Meters,\n 2: Meters to Feet. \n");
+    printf(" 1 : Feet to Meters\n 2 : Meters to Feet \n");
     printf("Enter choice : ");
     scanf("%d", &choice);
 
