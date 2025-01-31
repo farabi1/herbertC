@@ -6,8 +6,8 @@ int main(){
     float pi=3.14;
 
 
-    printf("There are three area to calculate \n No 1. Circle,\n No 2.rectangle,\n No 3. triangle \n");
-    printf("Enter the number value to compute : ");
+    printf("There are three area to calculate \n No 1. Circle\n No 2. Rectangle\n No 3. Triangle \n");
+    printf("Enter the number value to compute area : ");
     scanf("%d",&value);
 
     if(value==1){
