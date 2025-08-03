@@ -38,7 +38,6 @@ int main(){
 
         area=0.5 * height * base;
         printf("The value of area is %.2f \n",area);
-
     }
 
     else{

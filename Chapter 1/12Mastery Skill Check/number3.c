@@ -5,7 +5,7 @@ float o_to_c(void);
 int main(void)
 {
     float numberOfCup = o_to_c();
-    printf("the number of cup are : %f", numberOfCup);
+    printf("The number of cup are : %f", numberOfCup);
 
     return 0;
 }
